@@ -15,4 +15,5 @@ Features
 - Non dependent of any network, but it can use it.
 - No license required.
 
+
 More information at [the official site] (https://meshtastic.org)
